@@ -1,19 +1,3 @@
--------------------------------------------------------------------------
--- Joseph Zambreno
--- Department of Electrical and Computer Engineering
--- Iowa State University
--------------------------------------------------------------------------
-
-
--- Quadratic.vhd
--------------------------------------------------------------------------
--- DESCRIPTION: This file contains an implementation of the Quadratic
--- equation Ax^2+Bx+C using invidual adder and multiplier units.
---
---
--- NOTES:
--- 8/19/09 by JAZ::Design created.
--------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.std_logic_1164.all;
